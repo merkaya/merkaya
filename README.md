@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mkayaa
+- 👋 Hi, I’m @merkaya
 - 👀 I’m interested in Bash-Scripting
 - 🌱 I’m currently learning java
 <!---
